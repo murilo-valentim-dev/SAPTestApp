@@ -1,0 +1,6 @@
+@SAPTestApi_HostAddress = http://localhost:5219
+
+GET {{SAPTestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
